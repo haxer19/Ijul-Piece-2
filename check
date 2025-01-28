@@ -1,0 +1,4 @@
+return {
+    Title = "Cập nhật phiên bản 1.0.1",
+    Desc = "Chỉnh sửa và cải thiện hơn bản cũ.",
+}
